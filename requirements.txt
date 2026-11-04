@@ -1,2 +1,5 @@
 streamlit>=1.40
-pandas>=2.0
+requests>=2.31
+python-dotenv>=1.0
+mcp[cli]>=2.3.0,<3.0
+pytest>=8.0
